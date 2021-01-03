@@ -1,0 +1,13 @@
+for
+while
+if
+else
+elif
+class
+def
+import
+raise
+from
+or
+and
+not
